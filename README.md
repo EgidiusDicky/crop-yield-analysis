@@ -1,10 +1,6 @@
 # Crop Yield Analysis
 
----
-
 ## Dataset
-
----
 
 Dataset yang digunakan dalam proyek ini berasal dari Kaggle:
 
@@ -24,12 +20,8 @@ Dataset ini berisi informasi hasil panen tanaman (termasuk padi) dari berbagai n
 
 Data ini digunakan untuk keperluan eksplorasi, analisis korelasi, dan pembangunan model regresi linier sederhana maupun berganda untuk memprediksi hasil panen padi.
 
----
-
 ## Dashboard
 📎 [https://dashboard-prediksi-panen.streamlit.app/](https://dashboard-prediksi-panen.streamlit.app/)
-
----
 
 ## Poster
 ![Poster](poster/poster-prediksi-hasil-panen-padi.png)
