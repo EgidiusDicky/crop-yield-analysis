@@ -24,4 +24,4 @@ Data ini digunakan untuk keperluan eksplorasi, analisis korelasi, dan pembanguna
 📎 [https://dashboard-prediksi-panen.streamlit.app/](https://dashboard-prediksi-panen.streamlit.app/)
 
 ## Poster
-![Poster](poster/Poster prediksi hasil panen padi.png)
+![Poster](poster/poster-prediksi-hasil-panen-padi.png)
