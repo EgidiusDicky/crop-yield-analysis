@@ -1,6 +1,6 @@
-# crop-yield-analysis
+# Crop Yield Analysis
 
-## 📂 Dataset
+## Dataset
 
 Dataset yang digunakan dalam proyek ini berasal dari Kaggle:
 
@@ -19,3 +19,9 @@ Dataset ini berisi informasi hasil panen tanaman (termasuk padi) dari berbagai n
 - `Avg_Temperature_celsius`: Rata-rata suhu tahunan (°C)
 
 Data ini digunakan untuk keperluan eksplorasi, analisis korelasi, dan pembangunan model regresi linier sederhana maupun berganda untuk memprediksi hasil panen padi.
+
+## Dashboard
+📎 [https://dashboard-prediksi-panen.streamlit.app/](https://dashboard-prediksi-panen.streamlit.app/)
+
+## Poster
+![Poster](poster/Poster prediksi hasil panen padi.png)
